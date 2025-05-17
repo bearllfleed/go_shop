@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/bearllflee/go_shop/model"
+	"github.com/bearllfleed/go_shop/model"
 	"github.com/gin-gonic/gin"
 )
 

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/bearllflee/go_shop/global"
-	"github.com/bearllflee/go_shop/model"
+	"github.com/bearllfleed/go_shop/global"
+	"github.com/bearllfleed/go_shop/model"
 	"github.com/golang-jwt/jwt/v4"
 )
 

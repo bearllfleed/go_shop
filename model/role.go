@@ -1,10 +1,10 @@
 package model
 
-import "github.com/bearllflee/go_shop/global"
+import "github.com/bearllfleed/go_shop/global"
 
 type Role struct {
 	global.GSModel
-	Name     string 
+	Name     string
 	ParentId uint64
 }
 

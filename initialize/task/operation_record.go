@@ -5,8 +5,8 @@ import (
 	"math"
 	"time"
 
-	"github.com/bearllflee/go_shop/global"
-	"github.com/bearllflee/go_shop/task"
+	"github.com/bearllfleed/go_shop/global"
+	"github.com/bearllfleed/go_shop/task"
 )
 
 func ClearOperationRecord(cronString string) {

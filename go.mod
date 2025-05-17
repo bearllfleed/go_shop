@@ -1,4 +1,4 @@
-module github.com/bearllflee/go_shop
+module github.com/bearllfleed/go_shop
 
 go 1.22.0
 

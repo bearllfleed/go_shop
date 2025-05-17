@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/bearllflee/go_shop/api"
+	"github.com/bearllfleed/go_shop/api"
 
 	"github.com/gin-gonic/gin"
 )

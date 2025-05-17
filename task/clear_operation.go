@@ -1,9 +1,9 @@
 package task
 
 import (
-	"github.com/bearllflee/go_shop/global"
-	"github.com/bearllflee/go_shop/model"
-	"github.com/bearllflee/go_shop/service"
+	"github.com/bearllfleed/go_shop/global"
+	"github.com/bearllfleed/go_shop/model"
+	"github.com/bearllfleed/go_shop/service"
 )
 
 var operationRecordService = service.OperationRecordServiceApp

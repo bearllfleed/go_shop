@@ -2,13 +2,14 @@ package initialize
 
 import (
 	"fmt"
-	"go.uber.org/zap"
 	"net/http"
 	"runtime"
 
-	"github.com/bearllflee/go_shop/global"
-	"github.com/bearllflee/go_shop/initialize/task"
-	"github.com/bearllflee/go_shop/router"
+	"go.uber.org/zap"
+
+	"github.com/bearllfleed/go_shop/global"
+	"github.com/bearllfleed/go_shop/initialize/task"
+	"github.com/bearllfleed/go_shop/router"
 	"github.com/gin-gonic/gin"
 	"github.com/robfig/cron/v3"
 )

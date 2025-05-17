@@ -1,8 +1,8 @@
 package service
 
 import (
-	"github.com/bearllflee/go_shop/global"
-	"github.com/bearllflee/go_shop/model"
+	"github.com/bearllfleed/go_shop/global"
+	"github.com/bearllfleed/go_shop/model"
 )
 
 type OperationRecordService struct{}

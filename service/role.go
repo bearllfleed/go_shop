@@ -1,9 +1,9 @@
 package service
 
 import (
-	"github.com/bearllflee/go_shop/global"
-	"github.com/bearllflee/go_shop/model"
-	"github.com/bearllflee/go_shop/model/request"
+	"github.com/bearllfleed/go_shop/global"
+	"github.com/bearllfleed/go_shop/model"
+	"github.com/bearllfleed/go_shop/model/request"
 )
 
 var RoleServiceApp = new(RoleService)

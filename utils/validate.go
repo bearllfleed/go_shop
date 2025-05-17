@@ -3,8 +3,8 @@ package utils
 import (
 	"reflect"
 
-	"github.com/bearllflee/go_shop/global"
-	"github.com/bearllflee/go_shop/model"
+	"github.com/bearllfleed/go_shop/global"
+	"github.com/bearllfleed/go_shop/model"
 	"github.com/gin-gonic/gin/binding"
 	"github.com/go-playground/locales/zh"
 	ut "github.com/go-playground/universal-translator"

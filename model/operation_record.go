@@ -3,7 +3,7 @@ package model
 import (
 	"time"
 
-	"github.com/bearllflee/go_shop/global"
+	"github.com/bearllfleed/go_shop/global"
 )
 
 type OperationRecord struct {

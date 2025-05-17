@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"github.com/bearllflee/go_shop/model/response"
-	"github.com/bearllflee/go_shop/utils"
+	"github.com/bearllfleed/go_shop/model/response"
+	"github.com/bearllfleed/go_shop/utils"
 	"github.com/gin-gonic/gin"
 )
 

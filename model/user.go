@@ -1,6 +1,6 @@
 package model
 
-import "github.com/bearllflee/go_shop/global"
+import "github.com/bearllfleed/go_shop/global"
 
 type User struct {
 	global.GSModel

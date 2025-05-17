@@ -12,9 +12,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/bearllflee/go_shop/model"
-	"github.com/bearllflee/go_shop/service"
-	"github.com/bearllflee/go_shop/utils"
+	"github.com/bearllfleed/go_shop/model"
+	"github.com/bearllfleed/go_shop/service"
+	"github.com/bearllfleed/go_shop/utils"
 	"github.com/gin-gonic/gin"
 )
 

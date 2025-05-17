@@ -6,15 +6,15 @@ import (
 	"net/http"
 	"sync"
 
-	"github.com/bearllflee/go_shop/global"
-	"github.com/bearllflee/go_shop/model"
-	"github.com/bearllflee/go_shop/model/request"
-	"github.com/bearllflee/go_shop/model/response"
-	"github.com/bearllflee/go_shop/utils"
+	"github.com/bearllfleed/go_shop/global"
+	"github.com/bearllfleed/go_shop/model"
+	"github.com/bearllfleed/go_shop/model/request"
+	"github.com/bearllfleed/go_shop/model/response"
+	"github.com/bearllfleed/go_shop/utils"
 	"github.com/gorilla/websocket"
 	"go.uber.org/zap"
 
-	"github.com/bearllflee/go_shop/service"
+	"github.com/bearllfleed/go_shop/service"
 
 	"github.com/gin-gonic/gin"
 )

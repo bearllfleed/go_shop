@@ -10,10 +10,10 @@ import (
 	"time"
 
 	"github.com/IBM/sarama"
-	"github.com/bearllflee/go_shop/global"
-	"github.com/bearllflee/go_shop/initialize"
-	"github.com/bearllflee/go_shop/model"
-	"github.com/bearllflee/go_shop/service"
+	"github.com/bearllfleed/go_shop/global"
+	"github.com/bearllfleed/go_shop/initialize"
+	"github.com/bearllfleed/go_shop/model"
+	"github.com/bearllfleed/go_shop/service"
 	"github.com/robfig/cron/v3"
 	"gorm.io/gorm"
 	"gorm.io/gorm/schema"
@@ -163,14 +163,14 @@ func main() {
 	// Task()
 	// CronTaskSimpleUse()
 	initialize.MustConfig()
-	go KafkaConsumer()
-	KafkaProducer()
-	// initialize.MustLoadZap()
-	// initialize.MustInitDB()
-	// initialize.AutoMigrate(global.DB)
+	// go KafkaConsumer()
+	// KafkaProducer()
+	initialize.MustLoadZap()
+	initialize.MustInitDB()
+	initialize.AutoMigrate(global.DB)
 	// ExampleJSONSerializer()
-	// initialize.MustInitRedis()
-	// initialize.MustRunWindowServer()
+	initialize.MustInitRedis()
+	initialize.MustRunWindowServer()
 	// QueryAssociationOneToOne()
 	// QueryAssociationOneToMany()
 	// QueryAssociationManyToMany()

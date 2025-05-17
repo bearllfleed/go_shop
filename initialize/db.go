@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/bearllflee/go_shop/global"
-	"github.com/bearllflee/go_shop/model"
+	"github.com/bearllfleed/go_shop/global"
+	"github.com/bearllfleed/go_shop/model"
 	"github.com/redis/go-redis/v9"
 	"gorm.io/driver/mysql"
 	"gorm.io/gorm"

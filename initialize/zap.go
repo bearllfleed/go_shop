@@ -3,8 +3,8 @@ package initialize
 import (
 	"fmt"
 
-	ccore "github.com/bearllflee/go_shop/core"
-	"github.com/bearllflee/go_shop/global"
+	ccore "github.com/bearllfleed/go_shop/core"
+	"github.com/bearllfleed/go_shop/global"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

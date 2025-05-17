@@ -1,7 +1,7 @@
 package core
 
 import (
-	"github.com/bearllflee/go_shop/global"
+	"github.com/bearllfleed/go_shop/global"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 )

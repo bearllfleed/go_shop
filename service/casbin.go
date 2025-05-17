@@ -3,7 +3,7 @@ package service
 import (
 	"strconv"
 
-	"github.com/bearllflee/go_shop/global"
+	"github.com/bearllfleed/go_shop/global"
 	"github.com/casbin/casbin/v2"
 	"github.com/casbin/casbin/v2/model"
 	gormadapter "github.com/casbin/gorm-adapter/v3"

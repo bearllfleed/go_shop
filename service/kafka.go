@@ -5,8 +5,8 @@ import (
 	"fmt"
 
 	"github.com/IBM/sarama"
-	"github.com/bearllflee/go_shop/global"
-	"github.com/bearllflee/go_shop/model"
+	"github.com/bearllfleed/go_shop/global"
+	"github.com/bearllfleed/go_shop/model"
 )
 
 type KafkaService struct {
