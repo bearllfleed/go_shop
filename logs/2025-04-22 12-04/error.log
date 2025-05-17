@@ -1,0 +1,8 @@
+{"level":"error","ts":1745294662.914376,"msg":"读取消息失败","err":"websocket: close 1001 (going away)"}
+{"level":"error","ts":1745294668.5852315,"msg":"读取消息失败","err":"websocket: close 1001 (going away)"}
+{"level":"error","ts":1745294668.8981547,"msg":"读取消息失败","err":"websocket: close 1001 (going away)"}
+{"level":"error","ts":1745294669.1600802,"msg":"读取消息失败","err":"websocket: close 1001 (going away)"}
+{"level":"error","ts":1745294670.144449,"msg":"读取消息失败","err":"websocket: close 1001 (going away)"}
+{"level":"error","ts":1745294670.3186555,"msg":"读取消息失败","err":"websocket: close 1001 (going away)"}
+{"level":"error","ts":1745294670.477207,"msg":"读取消息失败","err":"websocket: close 1001 (going away)"}
+{"level":"error","ts":1745294699.9583766,"msg":"读取消息失败","err":"websocket: close 1001 (going away)"}
